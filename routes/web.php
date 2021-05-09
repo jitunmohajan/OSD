@@ -22,4 +22,4 @@ Route::post('store','App\Http\Controllers\ProductController@store');
 Route::get('edit/{id}','App\Http\Controllers\ProductController@edit');
 Route::post('update/{id}','App\Http\Controllers\ProductController@update');
 
-Route::get('del/{id}','App\Http\Controllers\ProductController@destroy');
+Route::get('delete/{id}','App\Http\Controllers\ProductController@destroy');

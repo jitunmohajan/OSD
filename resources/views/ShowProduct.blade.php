@@ -46,7 +46,7 @@
                   <td>{{ $d->productprice }}</td>
                  <td>
                     <a href="{{ URL::to('edit',['id'=>$d->id]) }}" class="btn btn-info">Edit</a>
-                    <a href="{{ URL::to('del',['id'=>$d->id]) }}" class="btn btn-info">Delete</a>
+                    <a href="{{ URL::to('delete',['id'=>$d->id]) }}" class="btn btn-info">Delete</a>
                   </td>
                  
                 </tr>
