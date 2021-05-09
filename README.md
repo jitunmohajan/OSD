@@ -2,7 +2,7 @@
 
     first open git bash on the path where you want to run the laravel project
 
-    * step 1: git clone https://github.com/jitunmohajan/OSD.git
+    * step 1: git clone https://github.com/jitunmohajan/OSP.git
 
     * step 2: cd OSD
 

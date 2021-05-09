@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>OSD</title>
+    <title>OSP</title>
 
     <link href="{{asset('backend2/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
 
